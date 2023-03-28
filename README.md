@@ -1,4 +1,4 @@
-# 中文版ChatGPT的prompts教程
+# 中文版ChatGPT指令集（Awesome ChatGPT Prompts）
 
 `ChatGPT`是由[`OpenAI`](https://openai.com/)训练的一款`大型语言模型`，可以帮助回答各种问题和提供有用的信息。
 
